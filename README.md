@@ -7,7 +7,7 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 **Data:**
-Open osurce data from Instacart in 2017 and created customer dataset for the project. 
+Open source data from Instacart in 2017 and created customer dataset for the project. 
 
 
 [Customers Data Set]
